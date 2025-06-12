@@ -1,0 +1,5 @@
+# secret bits
+*.key
+*.p12
+
+target/
